@@ -86,9 +86,9 @@ jordan.greet();
 
 - Once you are in the folder in the terminal where you store your projects, run `git clone` followed by the URL you copied from your forked copy of this github repository
 
-- In VSCode, select `File` in the top right, and select `Open Folder` then find the folder you cloned named `OOP-Debrief-Activity` and open it, **OR**
+- In VSCode, select `File` in the top right, and select `Open Folder` then find the folder you cloned named `OOP-Debrief-Activity` and open it
 
-<!-- - Alternatively you can run in the terminal `cd OOP-Debrief-Activity` and run `code -a .` to directly open the folder in the window or `code .` to open in a new window -->
+<!-- **OR** - Alternatively you can run in the terminal `cd OOP-Debrief-Activity` and run `code -a .` to directly open the folder in the window or `code .` to open in a new window -->
 
 - make sure and `git add .`, and `git commit -m "commit message"` after functional working changes to your code i.e. made the parent class with propeties and works error free, then at points along the way `git push origin main`.
 
